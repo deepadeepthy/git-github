@@ -1,0 +1,13 @@
+create a folder where uou want to keep projects
+
+Right click and in the option select "getgit bashhere"
+ 
+Then type this to create a localrepository
+$ git init
+
+then link it with central repository
+$ git remote add origin "https://github.com/deepadeepthy/git-github.git"
+
+to pull from master
+$ git pull origin master
+
